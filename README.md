@@ -1,4 +1,4 @@
-# Setting Up Manual Git Hooks for LLM Fine-tuning
+# Setting Up Local Git Hooks for LLM Fine-tuning with the Pre-Commit framework
 
 This tutorial does not focus on implementing LLM finetuning. For that tutorial, refer [here](https://github.com/dlops-io/llm-finetuning/).
 
